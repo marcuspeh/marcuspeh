@@ -8,8 +8,8 @@
 - 📄 Know about my experiences [https://marcuspeh.github.io/assets/file/Marcus_Peh_Resume.pdf](https://marcuspeh.github.io/assets/file/Marcus_Peh_Resume.pdf)
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/marcuspeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/marcuspeh/marcuspeh/main/assets/linkedin.svg" alt="marcuspeh" height="30" width="40" /></a>
-<a href="https://instagram.com/marcuspeh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/marcuspeh/marcuspeh/main/assets/instagram.svg" alt="marcuspeh_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcuspeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/marcuspeh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/marcuspeh/marcuspeh/main/assets/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="mailto:hkmpeh@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/marcuspeh/marcuspeh/main/assets/gmail.svg" alt="email" height="30" width="40" /></a>
 
 ### Languages:
