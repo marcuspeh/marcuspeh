@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hkmpeh@gmail.com**
 
-- 📄 Know about my experiences [https://marcuspeh.github.io/assets/file/Marcus_Peh_Resume.pdf](https://marcuspeh.github.io/assets/file/Marcus_Peh_Resume.pdf)
+- 📄 Know about my experiences [Marcus_Peh_Resume.pdf](https://marcuspeh.vercel.app/static/media/Marcus_Peh_Resume.4b99fd6ef222b36fb3cd.pdf)
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/marcuspeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
