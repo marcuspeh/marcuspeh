@@ -1,5 +1,5 @@
 # Hi, I'm Marcus <img src="https://raw.githubusercontent.com/marcuspeh/marcuspeh/main/assets/wave.gif" width="30px">
-### A passionate Computer Science student in National University of Singapore
+### A passionate Computer Science graduate from National University of Singapore
 
 - 👨‍💻 View my portfolio at [https://marcuspeh.github.io/](https://marcuspeh.github.io/)
 
