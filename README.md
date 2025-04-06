@@ -21,6 +21,4 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> 
 
-[![marcuspeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcuspeh&hide=stars&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuspeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
