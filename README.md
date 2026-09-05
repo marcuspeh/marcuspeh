@@ -1,30 +1,11 @@
 # Hi, I'm Marcus 👋
 
-I'm a Software Engineer at TikTok focused on building full-stack and backend systems.
+I'm a Software Engineer at TikTok with experience building full-stack and backend systems at scale.
 
-Previously, I've worked at Google, Bytedance (Global Payments), and GovTech. I'm interested in building scalable products, backend infrastructure, and data-intensive applications.
+I've worked across the stack, from building user-facing applications and APIs to designing data-intensive backend services and infrastructure. At TikTok, I work on the Live Data Platform, including systems involving ClickHouse, Redis, and large-scale data pipelines.
 
-### 💻 What I work with
+Previously, I interned at Google, ByteDance, and GovTech, gaining experience across Android, backend, and full-stack development.
 
-**Languages:** Go, Python, C++, Java, TypeScript, JavaScript, SQL
+I'm particularly interested in building scalable products end-to-end, with a focus on clean engineering, performance, and reliable systems.
 
-**Frontend:** React, Next.js
-
-**Backend:** Go, Python, Django, Node.js
-
-**Databases:** PostgreSQL, MongoDB, ClickHouse, Redis
-
-**Infrastructure:** Docker, GitHub Actions
-
-### 🔨 Currently building
-
-* Full-stack applications and developer tools
-* Real-time and data-intensive systems
-* Trading and backtesting infrastructure
-
-### 🎓 Education
-
-* M.S. in Computer Science — Georgia Tech (in progress)
-* B.Comp. in Computer Science — National University of Singapore
-
-📄 [Resume](https://marcuspeh.vercel.app/Marcus_Peh_Resume.pdf)
+Currently pursuing an M.S. in Computer Science through Georgia Tech's OMSCS program.
